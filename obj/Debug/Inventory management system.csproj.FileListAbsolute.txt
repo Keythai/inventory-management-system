@@ -1,0 +1,7 @@
+C:\ASP.NET DB\.NET\Inventory management system\bin\Debug\Inventory management system.exe.config
+C:\ASP.NET DB\.NET\Inventory management system\bin\Debug\Inventory management system.exe
+C:\ASP.NET DB\.NET\Inventory management system\bin\Debug\Inventory management system.pdb
+C:\ASP.NET DB\.NET\Inventory management system\obj\Debug\Inventory management system.csproj.AssemblyReference.cache
+C:\ASP.NET DB\.NET\Inventory management system\obj\Debug\Inventory management system.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\.NET\Inventory management system\obj\Debug\Inventory management system.exe
+C:\ASP.NET DB\.NET\Inventory management system\obj\Debug\Inventory management system.pdb
